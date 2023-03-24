@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHERISH0115)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center" style="color:#00FF00">
+<div align="center">
  <a href="https://v.douyin.com/AJSA1Kg/" title="抖音">抖音</a>
  <a href="https://b23.tv/WpapFVK" title="B站">B站</a>
  <a href="https://cherish0115.github.io/" title="博客">博客</a>
