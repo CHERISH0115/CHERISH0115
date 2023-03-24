@@ -7,7 +7,6 @@
 | ------------- | ------------- |
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHERISH0115)](https://github.com/anuraghazra/github-readme-stats)
 
 | [✨抖音](https://v.douyin.com/AJSA1Kg/) | [✨B站](https://b23.tv/WpapFVK) | [✨博客](https://cherish0115.github.io/) |
 | ------------- | ------------- | ------------- |
