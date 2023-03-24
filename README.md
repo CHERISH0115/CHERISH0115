@@ -1,6 +1,5 @@
 ### Hi there 👋
 ###  欢饮来到我的github👋  纯新手一枚，正在努力变得更加专业<br>
-支持我的话，就关注我吧！
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHERISH0115)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
