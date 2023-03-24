@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHERISH0115)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CHERISH0115)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CHERISH0115&repo=CHERISH0115.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CHERISH0115/CHERISH0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
