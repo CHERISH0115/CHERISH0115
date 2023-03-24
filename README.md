@@ -3,6 +3,10 @@
 
 <a title="github" target="_blank" href="https://github.com/CHERISH0115"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCHERISH0115&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=CHERISH0115&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="CHERISH's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHERISH0115&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8&hide=HTML,CSS" /> |
+| ------------- | ------------- |
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHERISH0115)](https://github.com/anuraghazra/github-readme-stats)
 
 | [✨抖音](https://v.douyin.com/AJSA1Kg/) | [✨B站](https://b23.tv/WpapFVK) | [✨博客](https://cherish0115.github.io/) |
