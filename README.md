@@ -1,5 +1,8 @@
 ### Hi there 👋
 ###  欢饮来到我的github👋  纯新手一枚，正在努力变得更加专业<br>
+
+<a title="github" target="_blank" href="https://github.com/CHERISH0115"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshaokeyibb&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHERISH0115)](https://github.com/anuraghazra/github-readme-stats)
 
 | [✨抖音](https://v.douyin.com/AJSA1Kg/) | [✨B站](https://b23.tv/WpapFVK) | [✨博客](https://cherish0115.github.io/) |
