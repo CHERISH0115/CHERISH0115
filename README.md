@@ -10,8 +10,8 @@
 
 
 
-| [✨抖音](https://v.douyin.com/AJSA1Kg/) | [✨B站](https://b23.tv/WpapFVK) | [✨博客](https://cherish0115.github.io/) |
-| ------------- | ------------- | ------------- |
+| [✨抖音](https://v.douyin.com/AJSA1Kg/) | [✨B站](https://b23.tv/WpapFVK) | [✨博客](https://cherish0115.github.io/) | [✨知乎](https://www.zhihu.com/people/admin-17-95) |
+| ------------- | ------------- | ------------- | ------------- |
 
 
 
