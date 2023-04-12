@@ -10,7 +10,7 @@
 
 
 
-| [✨Douyin](https://v.douyin.com/AJSA1Kg/) | [✨Bilibili](https://b23.tv/WpapFVK) | [✨Blog](http://blog.cherish.studio/) | [✨Zhihu](https://www.zhihu.com/people/admin-17-95) |
+| [✨Douyin](https://v.douyin.com/AJSA1Kg/) | [✨Bilibili](https://b23.tv/WpapFVK) | [✨Blog](http://cherish.studio/) | [✨Zhihu](https://www.zhihu.com/people/admin-17-95) |
 | ------------- | ------------- | ------------- | ------------- |
 
 
