@@ -27,19 +27,28 @@ Welcome to my GitHub! I am always striving to become more professional and build
 - 📍 Based in Xi'an, Shaanxi.
 - 🔭 Currently working on creative hardware projects, including **Raspberry Pi, ESP32, and LED matrices**.
 - 🌱 Deeply interested in **Signals & Systems, Digital Image Processing**, and **Analog Electronics**.
-- 💻 Love exploring **Front-end Web Development** (Vue, Three.js) and building interactive apps like Web Snake games.
+- 💻 Love exploring system-level development and scripting in **Linux environments**.
 - 📻 In my free time, I enjoy playing video games (like Delta Force) and shortwave radio listening.
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Threejs"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
 </p>
+
+---
+
+### 🌟 Featured Project
+
+**24x7 Interactive LED Matrix System** *(A fully integrated hardware & software project built from scratch)*
+- **Hardware Controller:** Driven by a Raspberry Pi interacting with a custom LED matrix.
+- **Key Features:** Includes a Real-Time Clock (RTC), a playable classic Snake Game controlled via a PS4 controller, and a live "bullet comment" (弹幕) system.
+- **Tech Stack:** Python (Core Logic & Hardware Control), Vue.js (Web Control Interface), and Linux environment configuration.
 
 ---
 
